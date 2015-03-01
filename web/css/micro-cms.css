@@ -1,0 +1,18 @@
+body {
+    padding-top: 40px;
+}
+
+.article-title:hover, .article-title:focus {
+    text-decoration: none;
+}
+
+footer.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.adminTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
