@@ -16,3 +16,8 @@ footer.footer {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+#errorPanel {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
