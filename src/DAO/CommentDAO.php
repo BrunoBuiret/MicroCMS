@@ -1,7 +1,6 @@
 <?php
 namespace MicroCMS\DAO;
 
-use Doctrine\DBAL\Connection;
 use MicroCMS\Domain\Comment;
 
 class CommentDAO extends DAO

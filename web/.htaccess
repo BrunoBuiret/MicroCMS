@@ -1,8 +1,0 @@
-# Redirection des URLs sur le fichier index.php si le module est présent
-<IfModule mod_rewrite.c>
-    Options -MultiViews
-
-    RewriteEngine On
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ index.php [QSA,L]
-</IfModule>

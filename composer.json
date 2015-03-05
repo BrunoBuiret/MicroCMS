@@ -1,4 +1,7 @@
 {
+    "name": "ptit-blond/micro-cms",
+    "description": "ISI2 - MicroCMS avec le framework PHP Silex",
+    "license": "MIT",
     "require": {
         "silex/silex": "~1.2",
         "silex/web-profiler": "~1.0",

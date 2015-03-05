@@ -1,7 +1,6 @@
 <?php
 namespace MicroCMS\DAO;
 
-use Doctrine\DBAL\Connection;
 use MicroCMS\Domain\Article;
 
 class ArticleDAO extends DAO
