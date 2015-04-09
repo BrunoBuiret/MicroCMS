@@ -9,7 +9,7 @@ class ArticleDAO extends DAO
      * Returns an article matching the supplied id.
      *
      * @param integer $id
-     *      * @return \MicroCMS\Domain\Article|throws an exception if no matching article is found
+     * @return \MicroCMS\Domain\Article|throws an exception if no matching article is found
      */
     public function find($id)
     {
